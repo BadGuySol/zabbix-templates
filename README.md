@@ -1,8 +1,13 @@
 # Zabbix Templates
 
-A collection of Zabbix templates made by me for our company.
+A collection of Zabbix templates made by Marco Hofmann for his company.
+I made changes to the template to use it to get data from MTR along with the Get-Traceroute.ps1 script developed by Tyler Applebaum [Zabbix Network Monitoring with mtr (My traceroute)](https://gist.github.com/tylerapplebaum)
 
-## Author
+
+
+* [Zabbix Network Monitoring with mtr (My traceroute)](https://gist.github.com/tylerapplebaum)
+
+## Author original Template
 
 Marco Hofmann
 
@@ -10,7 +15,4 @@ Marco Hofmann
 
 ## Overview
 
-* [Zabbix E2Guardian](https://github.com/xenadmin/zabbix-templates/tree/master/zabbix-e2guardian)
-* [Zabbix VMware Tools Windows performance counters Template](https://github.com/xenadmin/zabbix-templates/tree/master/zabbix-VMware%20Tools%20Windows%20performance%20counters)
-* [Zabbix Linux vfs User parameters](https://github.com/xenadmin/zabbix-templates/tree/master/zabbix-vfs-linux)
 * [Zabbix Network Monitoring with mtr (My traceroute)](https://github.com/xenadmin/zabbix-templates/tree/master/zabbix-net-mtr)
